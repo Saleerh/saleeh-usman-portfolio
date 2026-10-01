@@ -23,3 +23,15 @@ The site is intentionally static so it can deploy directly from GitHub with mini
 
 ## Important
 Project entries are labelled as real build, academic project, or concept where appropriate. Do not present concept work as client work.
+
+V5: fixed mobile navigation, added futuristic Web3 lab, network activity visual, orange accent system and minimal UI refinements.
+
+
+## V5 Brand Refresh
+- Primary brand is now **saleeh**
+- Removed the old SUSALEEH.DEV identity
+- Refined orange-accented wordmark
+- Added subtle futuristic grid/glow treatment
+- Preserved the mobile navigation fix
+- Preserved the Web3 Lab and signal panel
+- Refined hover interactions and premium footer treatment
