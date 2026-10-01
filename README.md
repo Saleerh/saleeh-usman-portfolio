@@ -43,4 +43,4 @@ vercel --prod
 ## Contact
 - WhatsApp: 09069603406
 - Facebook: https://www.facebook.com/share/1KGi8Vnnh2/?mibextid=wwXIfr
-- Email placeholder: hello@saleeh.dev (replace before launch)
+- Email placeholder:salehshehuu@gmail.com
